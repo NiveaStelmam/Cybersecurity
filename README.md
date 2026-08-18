@@ -1,6 +1,6 @@
 # 🔐 Cybersecurity 
 
-Repositório dedicado ao estudo prático e teórico de **Cibersegurança**, reunindo laboratórios, exercícios, configurações e experimentos realizados ao longo da formação **Mulher Digital**.
+Repositório dedicado ao estudo prático e teórico de **Cibersegurança**, reunindo laboratórios, exercícios, configurações e experimentos realizados ao longo da formação **Mulher Digital** da **Junior Achievement Américas**.
 
 O objetivo é registrar, de forma organizada, a evolução dos conhecimentos relacionados à **segurança de redes, infraestrutura, protocolos e fundamentos de segurança da informação**.
 
