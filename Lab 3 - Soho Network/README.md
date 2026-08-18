@@ -125,11 +125,6 @@ O recebimento das respostas **ICMP** confirmou a comunicação entre os disposit
 
 > 🔒 Os endereços utilizados durante a simulação não são registrados neste README.
 
-## 🎥 Demonstração
-
-O vídeo apresenta o teste de funcionamento do laboratório, demonstrando a comunicação entre os dispositivos da rede SOHO por meio do comando `ping`.
-
-
 ## ✅ Resultado
 
 A prática permitiu consolidar conceitos fundamentais de redes SOHO, incluindo **conectividade cabeada e wireless, DHCP, endereçamento IPv4, segurança Wi-Fi e testes de conectividade**.
