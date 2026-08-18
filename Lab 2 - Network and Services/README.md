@@ -132,10 +132,6 @@ A análise das informações das PDUs permite observar os protocolos envolvidos 
 | **TCP** | Responsável pelo transporte confiável dos dados |
 | **HTTP** | Responsável pela comunicação entre navegador e servidor web |
 
-## 🎥 Demonstração
-
-A prática demonstra a construção da rede, configuração dos serviços **DNS e HTTP/HTTPS**, realização dos testes de conectividade e análise do tráfego no **Modo Simulation** do Cisco Packet Tracer.
-
 ## ✅ Resultado
 
 A prática permitiu consolidar conhecimentos sobre **endereçamento IPv4, comunicação em redes locais, DNS, HTTP/HTTPS, TCP e ICMP**.
