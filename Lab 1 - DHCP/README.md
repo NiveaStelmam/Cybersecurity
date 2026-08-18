@@ -89,8 +89,6 @@ Ao selecionar a opção **DHCP** na configuração de IP dos computadores, o rot
 
 Dessa forma, não é necessário configurar manualmente cada computador.
 
-> 🔒 Os endereços IP, configurações específicas e demais valores utilizados na simulação não são registrados neste README.
-
 ## 🧪 Teste Final
 
 Para validar o funcionamento do laboratório, os computadores foram configurados para utilizar **DHCP**.
@@ -98,14 +96,6 @@ Para validar o funcionamento do laboratório, os computadores foram configurados
 Após a solicitação, cada computador recebeu automaticamente suas configurações de rede fornecidas pelo roteador.
 
 O procedimento foi repetido nos dois computadores para verificar a distribuição automática dos endereços.
-
-### ⚠️ Observação sobre o Cisco Packet Tracer
-
-Em algumas situações, o simulador pode apresentar comportamento inesperado durante a atualização das configurações DHCP.
-
-Caso as informações não sejam atualizadas automaticamente, pode ser necessário acessar a configuração do computador e ajustar a opção de obtenção do **Gateway** para **DHCP/automático**, realizando novamente o teste.
-
-Após a configuração correta, as conexões da topologia devem apresentar os indicadores de conectividade em **verde**.
 
 ## 💻 Principais Comandos Utilizados
 
@@ -138,12 +128,6 @@ dns-server <SERVIDOR_DNS>
 exit
 write
 ```
-
-> 🔒 Os valores específicos utilizados durante a configuração foram omitidos deste README.
-
-## 🎥 Demonstração
-
-A demonstração apresenta a configuração do roteador como servidor DHCP e a obtenção automática das configurações de rede pelos computadores clientes.
 
 ## ✅ Resultado
 
