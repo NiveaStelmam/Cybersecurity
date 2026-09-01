@@ -1,5 +1,4 @@
-# Laboratório de Redes SOHO - Cisco Packet Tracer
-
+# Laboratório 3 - Redes SOHO 
 Laboratório prático desenvolvido no **Cisco Packet Tracer** para implementação e configuração de uma pequena rede **SOHO (Small Office/Home Office)**, utilizando um roteador wireless residencial como equipamento central da rede.
 
 ## 📌 Sobre o projeto
@@ -124,11 +123,6 @@ ping <ENDERECO_DA_IMPRESSORA>
 O recebimento das respostas **ICMP** confirmou a comunicação entre os dispositivos conectados à rede local.
 
 > 🔒 Os endereços utilizados durante a simulação não são registrados neste README.
-
-## 🎥 Demonstração
-
-O vídeo apresenta o teste de funcionamento do laboratório, demonstrando a comunicação entre os dispositivos da rede SOHO por meio do comando `ping`.
-
 
 ## ✅ Resultado
 
