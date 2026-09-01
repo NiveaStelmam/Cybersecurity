@@ -1,4 +1,4 @@
-# Laboratório de Redes Hierárquicas - Cisco Packet Tracer
+# Laboratório 4 - Redes Hierárquicas 
 
 Laboratório prático desenvolvido no **Cisco Packet Tracer** para implementação e análise de uma rede corporativa baseada no modelo hierárquico de três camadas.
 
