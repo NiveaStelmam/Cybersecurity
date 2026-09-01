@@ -1,5 +1,4 @@
-# Laboratório de Redes SOHO - Cisco Packet Tracer
-
+# Laboratório 3 - Redes SOHO 
 Laboratório prático desenvolvido no **Cisco Packet Tracer** para implementação e configuração de uma pequena rede **SOHO (Small Office/Home Office)**, utilizando um roteador wireless residencial como equipamento central da rede.
 
 ## 📌 Sobre o projeto
